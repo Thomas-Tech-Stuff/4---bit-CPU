@@ -15,6 +15,8 @@ Opcodes:
 
 I can have a total of 16 instructions. At the moment I have only made 9
 
+One notable program I have made is where I can make a pattern of leds flicker. I will show this off in the repository when I have time but not right now as I am writing this.
+
 0001 – Display
 
 0010 – Sub
